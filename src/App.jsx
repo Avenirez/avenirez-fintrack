@@ -92,7 +92,7 @@ export default function App() {
                 </section>
 
                 <footer className="app-footer" id="app-footer">
-                    <p>&copy; 2026 Finance Tracker. Dibuat dengan 💚 &amp; React</p>
+                    <p>&copy; 2026 Fintrack. Dibuat dengan 💚</p>
                 </footer>
             </div>
 

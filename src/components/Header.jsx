@@ -8,7 +8,7 @@ export default function Header({ onToggleTheme }) {
                     </svg>
                 </div>
                 <div>
-                    <h1 className="app-title">Finance Tracker</h1>
+                    <h1 className="app-title">Fintrack</h1>
                     <p className="app-subtitle">Dashboard Keuangan Pribadi</p>
                 </div>
             </div>
